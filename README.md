@@ -8,35 +8,61 @@ Atualmente, busco desenvolver uma visão cada vez mais ampla sobre TI. Tenho int
 🚀 Áreas de interesse
 
 💻 Desenvolvimento Web criação de aplicações, sites e sistemas utilizando tecnologias modernas.
+
 📱 Desenvolvimento Mobile interesse em aplicações para dispositivos móveis e experiências digitais.
+
 🧠 Inteligência Artificial curiosidade sobre IA, automação e como sistemas inteligentes podem solucionar ou serem usadas como ferramentas para problemas reais.
+
 ☁️ Computação em Nuvem interesse em cloud, infraestrutura e serviços como Oracle Cloud e AWS.
+
 🛠️ Service desk diagnóstico e resolução de problemas de hardware, software e sistemas.
+
 🗄️ Banco de Dados armazenamento, organização, consulta e gerenciamento de dados.
+
 🔗 Integração de Sistemas e APIs entender como diferentes aplicações, serviços e tecnologias se comunicam.
+
 🤖 Automação  utilização de tecnologia para automatizar processos e tornar tarefas mais eficientes.
 
 *Principais tecnologias e conhecimentos que estudo atualmente:*
+
 *Desenvolvimento*
 
 * JavaScript
+
+* Java
+
 * C++
+
 * HTML5 e CSS3
+
 * Node.js
+
 * APIs e integração entre sistemas
+
 * Git e GitHub
+
 * Banco de dados e SQL
+
 * Desenvolvimento web e fundamentos de aplicações mobile
+
 * Noções de UI/UX e Figma
+
+
 
 Suporte técnico e infraestrutura
 
 * Manutenção e diagnóstico de hardware (computadores e periféricos)
+
 * Instalação e configuração de Windows 10 e 11
+
 * Conhecimentos em redes: TCP/IP, DNS, DHCP e configuração de roteadores
+
 * Noções de segurança da informação e boas práticas de proteção de dados
+
 * Banco de dados e plataforma Oracle Cloud Oracle Data Platform Associate
+
 * Pacote Office intermediário (Word, Excel e PowerPoint)
+
 * Sistemas de monitoramento e vigilância eletrônica Intelbras
 
 Tenho uma forte curiosidade em entender como cada sistema funciona e, principalmente, como todas as suas partes se conectam. Gosto de compreender como as coisas se interligam dentro de um ambiente tecnológico e de buscar soluções para os problemas que surgem ao longo desse processo.
