@@ -6,6 +6,7 @@ Escolhi a área de tecnologia porque acredito no seu poder de transformação. V
 Atualmente, busco desenvolver uma visão cada vez mais ampla sobre TI. Tenho interesse em entender não apenas como desenvolver uma aplicação, mas também como os sistemas funcionam por trás dela, como os computadores e as redes se comunicam, como os dados são armazenados e como diferentes tecnologias se conectam para que uma solução funcione de forma eficiente.
 
 🚀 Áreas de interesse
+
 💻 Desenvolvimento Web criação de aplicações, sites e sistemas utilizando tecnologias modernas.
 📱 Desenvolvimento Mobile interesse em aplicações para dispositivos móveis e experiências digitais.
 🧠 Inteligência Artificial curiosidade sobre IA, automação e como sistemas inteligentes podem solucionar ou serem usadas como ferramentas para problemas reais.
