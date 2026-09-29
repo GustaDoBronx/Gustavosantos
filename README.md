@@ -1,12 +1,21 @@
 # Gustavosantos
-Opa! Meu nome é Gustavo, atualmente sou estudante de Ciência da Computação e venho construindo minha trajetória na área de Tecnologia da Informação, com interesse principalmente em desenvolvimento web e mobile, suporte técnico e infraestrutura.
+👋Opa! Meu nome é Gustavo, atualmente sou estudante de Ciência da Computação e venho construindo minha trajetória na área de Tecnologia da Informação, com interesse principalmente em desenvolvimento web e mobile, suporte técnico e infraestrutura.
 
 Escolhi a área de tecnologia porque acredito no seu poder de transformação. Vivemos em um mundo cada vez mais conectado por soluções digitais e físicas, inteligência artificial, computação em nuvem e inovação constante, e quero fazer parte dessa transformação, aprendendo continuamente e contribuindo para a criação e melhoria de soluções tecnológicas.
 
 Atualmente, busco desenvolver uma visão cada vez mais ampla sobre TI. Tenho interesse em entender não apenas como desenvolver uma aplicação, mas também como os sistemas funcionam por trás dela, como os computadores e as redes se comunicam, como os dados são armazenados e como diferentes tecnologias se conectam para que uma solução funcione de forma eficiente.
 
- *Principais tecnologias e conhecimentos que estudo atualmente:*
+🚀 Áreas de interesse
+💻 Desenvolvimento Web criação de aplicações, sites e sistemas utilizando tecnologias modernas.
+📱 Desenvolvimento Mobile interesse em aplicações para dispositivos móveis e experiências digitais.
+🧠 Inteligência Artificial curiosidade sobre IA, automação e como sistemas inteligentes podem solucionar ou serem usadas como ferramentas para problemas reais.
+☁️ Computação em Nuvem interesse em cloud, infraestrutura e serviços como Oracle Cloud e AWS.
+🛠️ Service desk diagnóstico e resolução de problemas de hardware, software e sistemas.
+🗄️ Banco de Dados armazenamento, organização, consulta e gerenciamento de dados.
+🔗 Integração de Sistemas e APIs entender como diferentes aplicações, serviços e tecnologias se comunicam.
+🤖 Automação  utilização de tecnologia para automatizar processos e tornar tarefas mais eficientes.
 
+*Principais tecnologias e conhecimentos que estudo atualmente:*
 *Desenvolvimento*
 
 * JavaScript
