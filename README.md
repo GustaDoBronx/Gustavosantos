@@ -29,6 +29,8 @@ Atualmente, busco desenvolver uma visão cada vez mais ampla sobre TI. Tenho int
 
 * JavaScript
 
+* React junto ao typescript
+
 * Java
 
 * C++
